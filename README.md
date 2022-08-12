@@ -1,5 +1,6 @@
 # text-summarisation-with-BART
-[Dacon AI 기반 회의 녹취록 요약 경진대회](https://dacon.io/competitions/official/235813/overview/description)
+[Dacon AI 기반 회의 녹취록 요약 경진대회](https://dacon.io/competitions/official/235813/overview/description)  
+[Log](https://wandb.ai/dotsnangles/BART-Generative-Summarization)
 
 ### 지난 프로젝트 회고
 - 지난 번 분류 프로젝트를 통해 분석 - 전처리(증식) - 훈련 - 검증 - 시험을 아우르는 NLP 전반의 과정을 경험할 수 있었다.
